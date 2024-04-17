@@ -29,7 +29,7 @@ First, you will need to set the directories where you would like data to be stor
 
 * `read_in/00_run_sas_scripts.sh`
 * `01_sample/00a_run_sas_scripts.sh`
-*` 01_sample/00b_run_r_scripts.sh`
+* `01_sample/00b_run_r_scripts.sh`
 * `01_sample/00c_run_sas_scripts.sh`
 * `02_features/get_drug_info/00_get_drug_info.sh`
 * `02_features/00_run_r_scripts.sh`
