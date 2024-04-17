@@ -17,7 +17,7 @@
 .Rproj.user
 .DS_Store
 
-
+*log/* 
 *.Rhistory
 *.Rprofile 
 *.n*
