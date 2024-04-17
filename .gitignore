@@ -16,7 +16,7 @@
 .lastlogin
 .Rproj.user
 .DS_Store
-
+*.html
 *log/* 
 *.Rhistory
 *.Rprofile 
