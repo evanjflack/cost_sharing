@@ -3,7 +3,7 @@
 *.RData
 *.RHistory
 *.Rproj
-
+plots/
 *.dta
 *.sas7bdat
 *.log
