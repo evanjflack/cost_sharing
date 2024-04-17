@@ -8,6 +8,8 @@
 
 * `read_in`: Scripts to read-in the raw Medicare .sas files, subsets/formats variables
 
+* `00_pre_process`: Scripts to start other scripts, define functions/plot themes
+
 * `01_sample`: Scripts to create the main analytic sample, along with prediction and falsification samples
 
 * `02_features`: Scripts to create features used in the analysis, such as mortality outcomes and initial-90 days spending
